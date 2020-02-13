@@ -19,7 +19,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='light.gif' title='Light animated demo' alt='Light animated demo' />
+<img src='Light.gif' title='Light animated demo' alt='Light animated demo' />
 
 ## Notes
 
